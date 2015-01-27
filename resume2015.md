@@ -41,7 +41,7 @@ Student Photographer
 Claremont, CA
 Game Programmer
 
-•	Javascript programming in Unity for the Law of the Jungle game
+*	Javascript programming in Unity for the Law of the Jungle game
 
 
 ## RELEVANT SKILLS:
