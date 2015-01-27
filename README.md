@@ -33,6 +33,7 @@ Pomona College
 
 
 WORK EXPERIENCE:
+
 Toyo Miyatake Photography Studio (626-289-5674)						06-2013/08-2013
 San Gabriel, CA
 Assistant Photographer
@@ -54,6 +55,7 @@ Student Photographer
 Social Rules Project (ruleschangers.org)							6-2014/Ongoing
 Claremont, CA
 Game Programmer
+
 •	Javascript programming in Unity for the Law of the Jungle game
 
 
