@@ -8,27 +8,16 @@ Bachelor of Arts in (Computer Science)
 ## RELEVANT COURSEWORK: 
 ### Pomona College	
 *	Programming Languages (currently enrolled)						(Spring 2015)
-
 *	Computer Graphics (currently enrolled)						(Spring 2015)
-
 *	Algorithms										(Fall 2014)
-
 *	Database Systems									(Spring 2014)
-
 *	Computer Systems 									(Spring 2014)
-
 *	Computability and Logic 								(Spring 2014)
-
 *	Mobile Software Development								(Fall 2013)
-
 *	Data Structures and Advanced Programming 						(Fall 2013)
-
 *	Linear Algebra										(Fall 2013)
-
 *	Discrete Mathematics									(Spring 2013)
-
 *	Fundamentals of Computer Science							(Spring 2013)
-
 *	Introduction to Computer Science							(Fall 2011)
 
 ## WORK EXPERIENCE:
