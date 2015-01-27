@@ -46,7 +46,7 @@ Game Programmer
 
 ## RELEVANT SKILLS:
 Languages: Java, javascript, Objective C, sml, with some html/css, JQuery and C++ experience
-Software: Adobe Photoshop, Adobe Illustrator, XCode, Sublime Text Editor, Eclipse
+Software: Adobe Photoshop, Adobe Illustrator, XCode, Sublime Text Editor, Eclipse, Unity
 
 ## OTHER ACCOMPLISHMENTS: 
 
