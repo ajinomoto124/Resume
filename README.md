@@ -3,7 +3,7 @@ EDUCATION:
 Pomona College, Claremont CA	 				Expected Graduation Date: 5-18-2015 
 Bachelor of Arts in (Computer Science)
 
-RELEVANT COURSEWORK: ¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬								Date
+RELEVANT COURSEWORK: 
 Pomona College	
 •	Programming Languages (currently enrolled)						Spring 2015
 •	Computer Graphics (currently enrolled)						Spring 2015
