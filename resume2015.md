@@ -26,19 +26,16 @@ Bachelor of Arts in (Computer Science)
 San Gabriel, CA
 Assistant Photographer
 
-•	Digital Photo Editing
-
-•	Wedding Photography
+*	Digital Photo Editing
+*	Wedding Photography
 
 #### Pomona College Office of Communications (909-621-8501)			          		10-2011/Ongoing
 Claremont, CA
 Student Photographer
 
-•	Photographs for the Pomona College website
-
-•	Photographs for the Pomona/Pitzer sports teams
-
-•	Photographs for the Pomona College Alumni Magazine
+*	Photographs for the Pomona College website
+*	Photographs for the Pomona/Pitzer sports teams
+*	Photographs for the Pomona College Alumni Magazine
 
 #### Social Rules Project (ruleschangers.org)							6-2014/Ongoing
 Claremont, CA
@@ -53,8 +50,7 @@ Software: Adobe Photoshop, Adobe Illustrator, XCode, Sublime Text Editor, Eclips
 
 ## OTHER ACCOMPLISHMENTS: 
 
-•	Placed second in the Claremont Colleges 5C Hackathon Advanced Division (11-15-2013)  –  With “D.E.V.O.N”, a Siri-like, voice-activated program for Windows computers written in Java
-
-•	Placed second in the Claremont Colleges 5C Hackathon Beginner’s Division (4-12-2013) – With “Design Your Wig”, a web application for rearranging furniture for the Wig student dorm on the Pomona College Campus.  Written in html/css and JQuery
+*	Placed second in the Claremont Colleges 5C Hackathon Advanced Division (11-15-2013)  –  With “D.E.V.O.N”, a Siri-like, voice-activated program for Windows computers written in Java
+*	Placed second in the Claremont Colleges 5C Hackathon Beginner’s Division (4-12-2013) – With “Design Your Wig”, a web application for rearranging furniture for the Wig student dorm on the Pomona College Campus.  Written in html/css and JQuery
 
 
