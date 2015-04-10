@@ -1,4 +1,4 @@
-# Bmats124 Resume
+# Bmats124 Resume (Currently Outdated)
 ## EDUCATION:
 Pomona College, Claremont CA	 				
 Expected Graduation Date: 5-18-2015
